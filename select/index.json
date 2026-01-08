@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Suicide",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-01-08T12:38:29.724824Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Suicide Blonde",
+      "artist": "The Weepies",
+      "has_synced": true,
+      "path": "select/01_Suicide_Blonde_The_Weepies.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Suicide Is Painless",
+      "artist": "Lady & Bird",
+      "has_synced": true,
+      "path": "select/02_Suicide_Is_Painless_Lady_&_Bird.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rock 'N' Roll Suicide",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/03_Rock_'N'_Roll_Suicide_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rock 'N' Roll Suicide",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/04_Rock_'N'_Roll_Suicide_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rock 'n' Roll Suicide",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/05_Rock_'n'_Roll_Suicide_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rock 'n' Roll Suicide",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/06_Rock_'n'_Roll_Suicide_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Self Suicide",
+      "artist": "Goldie Lookin Chain",
+      "has_synced": false,
+      "path": "select/07_Self_Suicide_Goldie_Lookin_Chain.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Suicide",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/08_Suicide_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Suicide Policeman",
+      "artist": "Yuck",
+      "has_synced": true,
+      "path": "select/09_Suicide_Policeman_Yuck.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Polo Right - Suicide Alps Forever Re-Edit",
+      "artist": "Lil Ugly Mane",
+      "has_synced": false,
+      "path": "select/10_Polo_Right_-_Suicide_Alps_Forever_Re-Edit_Lil_Ugly_Mane.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "POLO RIGHT(SUICIDE ALPS FOREVER RE-EDIT)",
+      "artist": "LIL UGLY MANE",
+      "has_synced": false,
+      "path": "select/11_POLO_RIGHT(SUICIDE_ALPS_FOREVER_RE-EDIT)_LIL_UGLY_MANE.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One More Suicide",
+      "artist": "Marcy Playground",
+      "has_synced": false,
+      "path": "select/12_One_More_Suicide_Marcy_Playground.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Spectators of Suicide",
+      "artist": "Manic Street Preachers",
+      "has_synced": false,
+      "path": "select/13_Spectators_of_Suicide_Manic_Street_Preachers.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Suicide Kiss (Because Dead)",
+      "artist": "Orion Rigel Dommisse",
+      "has_synced": false,
+      "path": "select/14_Suicide_Kiss_(Because_Dead)_Orion_Rigel_Dommisse.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Suicide (Live at the Robin Hood R'n'b Club, Brierley Hill, 21/01/2002)",
+      "artist": "Stray",
+      "has_synced": true,
+      "path": "select/15_Suicide_(Live_at_the_Robin_Hood_R'n'b_Club,_Brierley_Hill,_21_01_2002)_Stray.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Suicide",
+      "artist": "Stray",
+      "has_synced": true,
+      "path": "select/16_Suicide_Stray.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Digital Suicide (Lullaby)",
+      "artist": "Heartsrevolution",
+      "has_synced": true,
+      "path": "select/17_Digital_Suicide_(Lullaby)_Heartsrevolution.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Suicide (feat. Tiji Jojo & T-Pablow)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/pl_01_Suicide_(feat._Tiji_Jojo_&_T-Pablow)_BAD_HOP.txt"
+    }
+  ]
+}
